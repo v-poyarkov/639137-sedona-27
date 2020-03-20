@@ -1202,3 +1202,20 @@ p.hotel-rating-number {
     color: #666666;
     background-color: #f2f2f2;
 }
+
+
+.footer-contacts-tel {
+   margin: 10px;
+    padding-left: 114px;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+
+.footer-contacts-tel-inner {
+    
+margin: 12px;
+    padding-left: 116px;
+    font-size: 21px;
+    font-weight: bold;
+}
